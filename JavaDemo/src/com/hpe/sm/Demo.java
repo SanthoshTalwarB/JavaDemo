@@ -6,6 +6,7 @@ public class Demo {
 	{
 		System.out.println("Begin of main method");
 		System.out.println("Inside of main method");
+		System.out.println("Middle of main method");
 		System.out.println("End of main method");
 	}
 
